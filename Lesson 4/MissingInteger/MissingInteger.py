@@ -1,5 +1,6 @@
 def solution(A):
-    array = [0] * 100001
+    array = [0] * 1000001
+    
     for i in A:
         if i > 0:
             array[i] += 1
