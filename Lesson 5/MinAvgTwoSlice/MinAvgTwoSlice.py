@@ -1,7 +1,7 @@
-import time
-
 def solution(A):
+  
+    return
 
 
 
-    pass
+solution([4, 2, 2, 5, 1, 5, 8])
