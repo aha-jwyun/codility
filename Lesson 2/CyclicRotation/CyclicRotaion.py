@@ -1,4 +1,7 @@
 def solution(A, K):
+    if len(A) == 0:
+        return []
+
     count = len(A) - K % len(A)
 
     for i in range(count):
